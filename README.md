@@ -15,16 +15,16 @@ For more info about the Deep Learning model and its application, see https://www
 # Sample image 1 Input and Output
 ![2023_03_07 06_08_00 PM](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/50b84881-448f-4453-8644-f950b2c6e383)
 ![output_image](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/c60d745f-f6b9-4466-8a0f-a75ba384ce02)
-
+{'tile_grid_size': 416, 'tile_overlap_ratio': 0.25, 'conf_threshold': 0.25, 'nms_threshold': 0.1, 'num_pos_wells': 3}
 # Sample image 2 Input and Output
 ![2023_03_07 06_18_00 PM](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/201e374c-a9af-47e2-861d-9b82751cb146)
 ![output_image](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/096dadf5-4a27-47bf-a16c-2c9cd36e220d)
-
+{'tile_grid_size': 416, 'tile_overlap_ratio': 0.25, 'conf_threshold': 0.25, 'nms_threshold': 0.1, 'num_pos_wells': 231}
 # Sample image 3 Input and Output
 ![2023_03_07 06_33_01 PM](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/228e7e96-1e47-4570-b96f-bdda8628dceb)
 ![output_image](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/39f0f1e3-b04c-4951-b1ca-b012cd764244)
-
+{'tile_grid_size': 416, 'tile_overlap_ratio': 0.25, 'conf_threshold': 0.25, 'nms_threshold': 0.1, 'num_pos_wells': 350}
 # Sample image 4 Input and Output
 ![2023_03_07 07_03_01 PM](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/89e2c915-da1d-46c0-81e2-034fb95d5c21)
 ![output_image](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/fd1369ed-53e1-414c-b228-a90b45db95e6)
-
+{'tile_grid_size': 416, 'tile_overlap_ratio': 0.25, 'conf_threshold': 0.25, 'nms_threshold': 0.1, 'num_pos_wells': 359}
