@@ -4,6 +4,7 @@ Code to train and deploy Deep Learning model for digital RT-RPA-CRISPR fluoresce
 You have to options:
 # 1. Deploy only, i.e., use the trained weights to analyse image using your personal computer:
 In this case, go to the Deploy folder and download the trained weights (best150epochondatasetv5_mAP_99_55) and codes in the Deploy folder. Then modify paths in the digitalCRISPRwholepipelineonlabtopv2-onLenovolaptop.ipynb notebook (e.g., using JupyterLab launched via Anaconda) and run. You may need to clone yolov5 (git clone https://github.com/ultralytics/yolov5) and install some libraries (e.g., using Anaconda) to your computer before deployment. There are several sample images in the Sample Images folder for you to try. Result of a sample image is shown below:
+
 <img width="664" alt="image" src="https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/fd5d8ed0-8b58-4a65-8935-50651517ef3a">
 
 # 2. Retrain and Deploy, i.e., retrain the model to improve accuracy or retrain on your custom data before deployment:
