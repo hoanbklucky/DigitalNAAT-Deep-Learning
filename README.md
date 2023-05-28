@@ -12,7 +12,7 @@ In this case, go to the Training folder and upload the code to Google Colab and 
 <img width="749" alt="image" src="https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/32663c73-1b7b-4e3b-bdce-e4bf304611c1">
 
 For more info about the Deep Learning model and its application, see https://www.medrxiv.org/content/10.1101/2023.05.12.23289911v1
-# More results of other sample images:
+# Results of other sample images:
 # Sample image 1 Input and Output
 ![2023_03_07 06_08_00 PM](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/50b84881-448f-4453-8644-f950b2c6e383)
 ![output_image](https://github.com/hoanbklucky/DigitalNAAT-Deep-Learning/assets/20608059/c60d745f-f6b9-4466-8a0f-a75ba384ce02)
